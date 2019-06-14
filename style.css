@@ -44,6 +44,10 @@
 	background-color: #1c1c1c;
 }
 
+.star {
+	z-index: 99;	
+}
+
 .star:first-child {
 	position: absolute;
 	border-radius: 50%;
